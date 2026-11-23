@@ -4,7 +4,7 @@ end)
 
 --
 -- 
-task.wait(8)
+task.wait(2)
 
 --
 task.spawn(function()
